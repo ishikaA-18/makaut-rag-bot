@@ -1,0 +1,328 @@
+[
+    {
+        "subject_name": "ELECTRIC MACHINE-II",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "Fundamentals of AC machine windings",
+                "content": "Physical arrangement of windings in stator and cylindrical rotor;\nslots for windings; single-turn coil - active portion and overhang;\nfull-pitch coils, concentrated winding, distributed winding, winding\naxis,3D visualization of the above winding types, Air-gap MMF \ndistribution with fixed current through\nwinding-concentrated and distributed, Sinusoidally distributed\nwinding, winding distribution factor"
+            },
+            {
+                "unit_no": "2",
+                "title": "Pulsating and revolving magnetic fields",
+                "content": "Constant magnetic field, pulsating magnetic field - alternating\ncurrent in windings with spatial displacement, Magnetic field\nproduced by a single winding - fixed current and alternating current\nPulsating fields produced by spatially displaced windings, Windings \nspatially shifted by 90 degrees, Addition of pulsating magnetic\nfields, Three windings spatially shifted by 120 degrees (carrying\nthree-phase balanced currents), revolving magnetic field."
+            },
+            {
+                "unit_no": "3",
+                "title": "Induction Machines",
+                "content": "Construction, Types (squirrel cage and slip-ring), Torque Slip\nCharacteristics, Starting and Maximum Torque. Equivalent circuit. \nPhasor Diagram, Losses and Efficiency. Effect of parameter\nvariation on torque speed characteristics (variation of rotor and\nstator resistances, stator voltage, frequency). Methods of starting,\nbraking and speed control for induction motors. Generator operation.\nSelf-excitation. Doubly-Fed Induction Machines.\nSingle-phase induction motors:\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)"
+            },
+            {
+                "unit_no": "4",
+                "title": "Single-phase induction motors",
+                "content": "Constructional features, double revolving field theory, equivalent \ncircuit, determination of parameters. Split-phase starting methods\nand applications"
+            },
+            {
+                "unit_no": "5",
+                "title": "Synchronous machines",
+                "content": "Constructional features, cylindrical rotor synchronous machine -\ngenerated EMF, equivalent circuit and phasor diagram, armature\nreaction, synchronous impedance, voltage regulation. Operating 10\ncharacteristics of synchronous machines, V-curves. Salient pole\nmachine - two reaction theory, analysis of phasor diagram, power\nangle characteristics. Parallel operation of alternators -\nsynchronization and load division."
+            },
+            {
+                "unit_no": "6",
+                "title": "Special Electromechanical devices",
+                "content": "Principle and construction of switched Reluctance motor, Permanent\nmagnet machines, Brushless DC machines, Hysteresis motor, \nStepper motor, Tacho generators."
+            }
+        ]
+    },
+    {
+        "subject_name": "POWER SYSTEM-I",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "Basic Concepts",
+                "content": "Evolution of Power System and present day Scenario. Structure of\npower system: Bulk power grid and Micro Grid.\nGeneration of Electric Power:\nGeneral layout of a typical coal fired power station, Hydro electric \npower station, Nuclear power station, their components and working\nprinciples, comparison of different methods of power generation.\nIntroduction to Solar & Wind energy system.\nIndian Electricity Rule-1956: General Introduction."
+            },
+            {
+                "unit_no": "2",
+                "title": "Overhead transmission line",
+                "content": "Choice of frequency, Choice of voltage, Types of conductors,Inductance and Capacitance of a single phase and three phase\nsymmetrical and unsymmetrical configurations. Bundle conductors.\nTransposition. Concept of GMD and GMR. Influence of earth on 12\nconductor capacitance.\nOverhead line construction,Line supports, Towers, Poles, Sag, Tension and Clearance, Effect of\nWind and Ice on Sag. Dampers.\nCorona: Principle of Corona formation, Critical disruptive voltage,\nVisual critical corona discharge potential, Corona loss, advantages\n& disadvantages of Corona. Methods of reduction of Corona.\nInsulators: Types, Voltage distribution across a suspension\ninsulator string, String efficiency, Arching shield & rings, Methods 05\nof improving voltage distribution across Insulator strings, Electrical\n3 tests on line Insulators."
+            },
+            {
+                "unit_no": "3",
+                "title": "Insulators",
+                "content": "Types, Voltage distribution across a suspension \ninsulator string, String efficiency, Arching shield & rings, Methods \nof improving voltage distribution across Insulator strings, Electrical \ntests on line Insulators."
+            },
+            {
+                "unit_no": "4",
+                "title": "Cables",
+                "content": "Types of cables, cable components, capacitance of single core & 3 \ncore cables, dielectric stress, optimum cable thickness, grading, \ndielectric loss and loss angle."
+            },
+            {
+                "unit_no": "5",
+                "title": "Performance of lines",
+                "content": "Short, medium (nominal, T) and long lines and their representation.,\nA.B.C.D constants, Voltage regulation, Ferranti effect, Power\nequations and line compensation, Power Circle diagrams."
+            },
+            {
+                "unit_no": "6",
+                "title": "Tariff",
+                "content": "Guiding principle of Tariff, different types of tariff."
+            }
+        ]
+    },
+    {
+        "subject_name": "CONTROL SYSTEM",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "Introduction to control system",
+                "content": "Concept of feedback and Automatic control, Effects of feedback,Objectives of control system, Definition of linear and nonlinear systems, Elementary concepts ofsensitivity and robustness. Types of control systems, Servomechanisms and regulators, examples offeedback control systems. Transfer function concept. Pole and Zeroes of a transfer function. Propertiesof Transfer function."
+            },
+            {
+                "unit_no": "2",
+                "title": "Mathematical modeling of dynamic systems",
+                "content": "Translational systems, Rotational systems, Mechanicalcoupling, Liquid level systems, Electrical analogy of Spring-Mass-Dashpot system. Block diagramrepresentation of control systems. Block diagram algebra. Signal flow graph. Mason’s gain formula. Control system components: Potentiometer, Synchros, Resolvers, Position encoders. DC and ACtacho-generators. Actuators. Block diagram level description of feedback control systems for positioncontrol, speed control of DC motors, temperature control, liquid level control, voltage control of anAlternator."
+            },
+            {
+                "unit_no": "3",
+                "title": "Time domain analysis", 
+                "content": "Time domain analysis of a standard second order closed loop system. Concept of undamped natural frequency, damping, overshoot, rise time and settling time. Dependence of time domain performance parameters on natural frequency and damping ratio. Step and Impulse response of first and second order systems. Effects of Pole and Zeros on transient response. Stability by pole location. Routh-Hurwitz criteria and applications. Error Analysis: Steady state errors in control systems due to step,ramp and parabolic inputs. Concepts of system types and error constants."
+            },
+            {
+                "unit_no": "4",
+                "title": "Stability Analysis",
+                "content": "Root locus techniques, construction of Root Loci for simple systems.\nEffects ofgain on the movement of Pole and Zeros. \nFrequency domain analysis of linear system,Bode plots, Polar\nplots, Nichols chart, Concept ofresonance frequency of peak\nmagnification. Nyquist criteria, measure of relative stability, phase\nandgain margin. Determination of margins in Bode plot. Nichols\nchart. M-circle and M-Contours inNichols chart."
+            },
+            {
+                "unit_no": "5",
+                "title": "Control System performance measure",
+                "content": "Improvement of system performance through compensation. \nLead, Lag and Lead- lag compensation, PI, PD and PID control."
+            },
+            {
+                "unit_no": "6",
+                "title": "State variable Analysis",
+                "content": "Concepts of state variables. State space model. Diagonalization of State Matrix. Solution of state equations. Eigenvalues and Stability Analysis. Concept of controllability and observability. Pole-placement by state feedback. Discrete-time systems. Difference Equations. State-space models of linear discrete-time systems. Stability of linear discrete-time systems."
+            }
+        ]
+    },
+    {
+        "subject_name": "POWER ELECTRONICS",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "Introduction",
+                "content": "Concept of power electronics, application of power electronics, uncontrolled converters,advantages and disadvantages of power electronics converters, power electronics systems,power diodes, power transistors, power MOSFETS, IGBT and GTO."
+            },
+            {
+                "unit_no": "2",
+                "title": "PNPN devices",
+                "content": "Thyristors, brief description of members of Thyristor family with symbol, V-Icharacteristics and applications. Two transistor model of SCR, SCR turn on methods,switching characteristics, gate characteristics, ratings, SCR protection, series and paralleloperation, gate triggering circuits, different commutation techniques of SCR."
+            },
+            {
+                "unit_no": "3",
+                "title": "Phase controlled converters",
+                "content": "Principle of operation of single phase and three phase half wave,\nhalf controlled, full controlled converters with R, R-L and RLE\nloads, effects of freewheeling diodes and source inductance on the\nperformance of converters. External performance parameters of\nconverters, techniques of power factor improvement, single phase\nand three phase dual converters\nDC-DC converters"
+            },
+            {
+                "unit_no": "4",
+                "title": "DC-DC converters",
+                "content": "Principle of operation, control strategies, step up choppers, types of \nchoppers circuits based on quadrant of operation, performance\nparameters, multiphase choppers.\nInverters"
+            },
+            {
+                "unit_no": "5",
+                "title": "Inverters",
+                "content": "Definition, classification of inverters based on nature of input \nsource, wave shape of outputvoltage, method of commutation &\nconnections. Principle of operation of single phase andthree phase\nbridge inverter with R and R-L loads, performance parameters of\ninverters,methods of voltage control and harmonic reduction of\ninverters.\nResonant Pulse Converters\nIntroduction, Series Resonant inverter, Parallel Resonant inverter,"
+            },
+            {
+                "unit_no": "6",
+                "title": "Resonant Pulse Converters",
+                "content": "Introduction, Series Resonant inverter, Parallel Resonant inverter, \nZero-Current Switching Resonant converters, Zero-Voltage \nSwitching Resonant converter, Two quadrant Zero-Voltage\nSwitching Resonant converter, Resonant DC link inverter."
+            },
+            {
+                "unit_no": "7",
+                "title": "Applications",
+                "content": "Speed control of AC and DC motors. HVDC transmission. Static \ncircuit breaker, UPS,static VAR controller."
+            }
+        ]
+    },
+    {
+        "subject_name": "ELECTRIC MACHINE-IILABORATORY",
+        "units": []
+    },
+    {
+        "subject_name": "POWER SYSTEM-I LABORATORY",
+        "units": []
+    },
+    {
+        "subject_name": "CONTROL SYSTEMLABORATORY",
+        "units": []
+    },
+    {
+        "subject_name": "POWER ELECTRONICSLABORATORY",
+        "units": []
+    },
+    {
+        "subject_name": "DATA STRUCTURE & ALGORITHM",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "Analysis of an Algorithm, Asymptotic Notations, Time-Space trade 10\noff. Searching",
+                "content": "Linear Search and Binary Search Technique sand\ntheir complexity analysis.\nStacks and Queues: ADT Stack and its operations: Algorithms and\ntheir complexity analysis, Applications of Stacks: Expression"
+            },
+            {
+                "unit_no": "2",
+                "title": "Conversion and evaluation – corresponding algorithms and\ncomplexity analysis. ADT queue, Types of Queue",
+                "content": "Simple Queue, 10\nCircular Queue, Priority Queue; Operations on each types of\nQueues: Algorithms and their analysis.\nLinked Lists: Singly linked lists: Representation in memory,"
+            },
+            {
+                "unit_no": "3",
+                "title": "Algorithms of several operations",
+                "content": "Traversing, Searching, Insertion\ninto, Deletion from linked list; Linked representation of Stack and \nQueue, Header nodes, Doubly linked list: operations on it and\nalgorithmic analysis; Circular Linked Lists: all operations their\nalgorithms andthe complexity analysis. Trees: Basic Tree\nTerminologies, Different types of Trees: Binary Tree, Threaded\nBinary Tree, Binary Search Tree, AVL Tree; Tree operations on\neach of the trees and their algorithms with complexity analysis.\nApplications of Binary Trees. B Tree, B+ Tree: definitions,\nalgorithms and analysis\nSorting and Hashing: Objective and properties of different sorting\n4 algorithms: Selection Sort, Bubble Sort, Insertion Sort, Quick Sort,\nMerge Sort, Heap Sort; Performance and Comparison among all the 10\nmethods, Hashing. Graph: BasicTerminologies and Representations,\nGraph search and traversal algorithms and complexity analysis.\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\nText books:\n1. Data Structures and Program Design In C, 2/E by Robert L. Kruse, Bruce P. Leung. PHI\n2. Data Structure & Algorithms Using C, R.S. Salaria, 5th Ed., Khanna Publishing House\n3. Data Structures in C, Aaron M. Tenenbaum. Pearson.\n4. Data Structure, S. Lipschutz.. Mc Graw Hill.\nReference books\n1. Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest,\nClifford Stein, MIT press\n2. Expert Data Structures with C++, R.B Patel, Khanna Publishing House\n3. Fundamentals of Data Structures of C, Ellis Horowitz, SartajSahni, Susan Andersonfreed,\nMIT press\n4. Data Structures Using C, ReemaThareja. Oxford University press\n5. Data Structure Using C, 2/e by A.K. Rath, A. K. Jagadev. SCITECH\n6. Data Structures through C, YashwantKanetkar, BPB Publications.\nCourse Outcome:\nAfter completion of this course, the learners will be able to\n1. differentiate how the choices of data structure & algorithm methods enhance the performance\nof the program.\n2. solve problems based upon different data structure & also write programs.\n3. write programs based on different data structure\n4. identify appropriate data structure & algorithmic methods in solving problem.\n5. discuss the computational efficiency of the principal algorithms for sorting, searching, and\nhashing\n6. comparethe benefits of dynamic and static data structures implementations.\nSpecial Remarks (if any)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their program\neducational objective.\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)"
+            }
+        ]
+    },
+    {
+        "subject_name": "OBJECT ORIENTED PROGRAMMING",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "",
+                "content": "Abstract data types and their specification. How to implement an \nADT. Concrete state space, concrete invariant, abstraction function.\nImplementing operations, illustrated by the Text example."
+            },
+            {
+                "unit_no": "2",
+                "title": "",
+                "content": "Features of object-oriented programming. Encapsulation, object \nidentity, polymorphism – but not inheritance."
+            },
+            {
+                "unit_no": "3",
+                "title": "",
+                "content": "Inheritance in OO design. Design patterns. Introduction and \nclassification. The iterator pattern.\nModel-view-controller pattern. Commands as methods and as 08\n4 objects. Implementing OO language features. Memory management."
+            },
+            {
+                "unit_no": "5",
+                "title": "Generic types and collections GUIs. Graphical programming with \nScale and Swing . The software development process\nText books",
+                "content": "1. Mastering Object-Oriented Programming Using C++, R.S. Salaria, Khanna Publishing House.\n2. Object Oriented Modelling and Design,Rambaugh, James Michael, Blaha Prentice Hall India.\n3. The complete reference-Java2, Patrick Naughton, Herbert Schildt, TMH\n4. Core Java For Beginners, R.K. Das, VIKAS PUBLISHING\n5. Java How to Program, Deitel and Deitel, 6th ED, Pearson\nReference books\n1. Object Oriented System Development, Ali Bahrami, McGraw Hill.\n2. Ivor Horton's Beginning Java 2 SDK – Wrox\n3. Programming With Java: A Primer, E. Balagurusamy 3rd Ed., TMH\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\nCourse Outcome:\nAfter completion of this course, the learners will be able to\n1. specify simple abstract data types.\n2. recognise features of object-oriented design such as encapsulation, polymorphism,\ninheritance, and composition of systems based on object identity.\n3. apply common object-oriented design patterns\n4. specify uses of common object oriented design patterns with examples.\n5. design applications with an event-driven graphical user interface.\nSpecial Remarks (if any)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their program\neducational objective.\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)"
+            }
+        ]
+    },
+    {
+        "subject_name": "COMPUTER ORGANISATION",
+        "units": [
+            {
+                "unit_no": "1",
+                "title": "",
+                "content": "Basic organization of the stored program computer and operation \nsequence for execution of a program. Role of operating systems and\ncompiler/assembler. Fetch, decode and execute cycle, Concept of\noperator, operand, registers and storage, Instruction format.\nInstruction sets and addressing modes. Commonly used number\nsystems. Fixed and floating point representation of numbers."
+            },
+            {
+                "unit_no": "2",
+                "title": "",
+                "content": "Overflow and underflow. Design of adders - ripple carry and carry \nlook ahead principles. Design of ALU. Fixed point multiplication -\nBooth's algorithm. Fixed point division - Restoring and non-\nrestoring algorithms. Floating point - IEEE 754 standard."
+            },
+            {
+                "unit_no": "3",
+                "title": "",
+                "content": "Memory unit design with special emphasis onimplementation of \nCPU-memory interfacing. Memory organization, static and dynamic\nmemory, memory hierarchy, associative memory. Cache memory,\nVirtual memory. Data path design for read/write access.\nDesign of control unit - hardwired and microprogrammed control. 10"
+            },
+            {
+                "unit_no": "4",
+                "title": "Introduction to instruction pipelining. Introduction to RISC\narchitectures. RISC vs CISC architectures. I/O operations - Concept\nof handshaking, Polled I/O, interrupt and DMA.\nText books",
+                "content": "1. Computer System Architecture, Mano, M.M. PHI.\n2. Computer Architecture & Organisation, Hayes J. P, McGraw Hill,\n3. Computer Organisation & Design, Chaudhuri P. Pal, PHI,\n4. Computer Organization & Architecture, Rajaraman , PHI\nReference books\n1. Computer Architecture, BehroozParhami , Oxford University Press\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\n2. Microprocessors and Microcontrollers, N. senthil Kumar, M. Saravanan, S. Jeevananthan\n,OUP\n3. Computer Organization & Architecture , P N BasuVikas Pub\n4. Computer Organization & Architecture, B.Ram, Newage Publications\n5. Computer Organisation, Hamacher, McGraw Hill,\nCourse Outcome:\nAfter completion of this course, the learners will be able to\n1. explain basic structure of digital computer, stored program concept, different arithmetic and\ncontrol unit operations, operating systems and compiler/assembler, memory and I/O\noperations.\n2. differentiate between RISC vs CISC architectures, cache memory, virtual memory.\n3. performfixed point multiplication and division.\n4. applyrestoring and non-restoring algorithms, floating point - IEEE 754 standard.\n5. design adder, memory unit and control unit, data path for read/write access.\nSpecial Remarks (if any)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their program\neducational objective.\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)"
+            }
+        ]
+    },
+    {
+        "subject_name": "HIGH VOLTAGE ENGINEERING",
+        "units": [
+            {
+                "unit_no": "2",
+                "title": "Cockroft-Walton voltage multiplier circuit, Electrostatic generator, 08\nCascaded transformers, Series resonant circuit.\nGeneration of Impulse voltages and currents",
+                "content": "standard impulse wave\nshapes, Multistage impulse generators, generation of switching\nsurges, generation of impulse currents, tripping and control of\nimpulse generators.\nMeasurement of High Voltage and Currents\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)"
+            },
+            {
+                "unit_no": "3",
+                "title": "",
+                "content": "Sphere gap, Uniform field spark gap, Rod gap, Electrostatic\nvoltmeter, Generating voltmeter, Impulse voltage measurements 08\nusing voltage dividers, Measurement of High DC and Impulse\ncurrents. Cathode ray oscillographs for impulse voltage and current\nmeasurements.\nOver voltage phenomenon and insulation coordination in"
+            },
+            {
+                "unit_no": "4",
+                "title": "Electric power systems",
+                "content": "Lightning Phenomena, Electrification of cloud, Development of\nLightning Stroke, lightning induced over voltage, direct stroke,\nindirect stroke."
+            },
+            {
+                "unit_no": "08",
+                "title": "Protection of Electrical Apparatus against over voltage, Lightning\nArrestors, Valve Type, Metal Oxide arresters, Expulsion type. Effect\nof location of lightning arresters on protection of transformer.\nProtection of substation, Ground wires.\nInsulation Co-ordination, Basic Insulation level. Basic Impulse\nlevel, Switching Impulse level. Volt time characteristics of\nprotective devices, Determination of Basic Impulse level of\nsubstation equipment.\nHigh Voltage Testing",
+                "content": ""
+            },
+            {
+                "unit_no": "5",
+                "title": "Various standards for HV Testing of electrical apparatus, IS, IEC\nstandards, Testing of insulators andbushings, testing of isolators and 06\ncircuit breakers, testing of cables, power transformers. High voltage\nlaboratory layout, indoor and outdoor laboratories, testingfacility\nrequirements, safety precautions in H. V. Labs.\nText books",
+                "content": "1. High Voltage Engineering, C.L. Wadhawa, New Age International Publishers.\n2. High Voltage Engineering, M.S. Naidu & V. Kamraju, Tata MC Graw Hill publication.\nReference books\n1. High-Voltage Engineering : theory and practice, Mazen Abdel-Salam; Hussein Anis; Ahdab\nEl-Morshedy; RoshdyRadwan, New York, N.Y. : Marcel Dekker, ©2000.\n2. High Voltage Engineering, E. Kuffel, W.S. Zaengl, J. Kuffel, 2nd edition, Butterworth-\nHeinemann.\nCourse Outcome:\nAfter completion of this course, the learners will be able to\n1. explain breakdown phenomenon of gas, liquid and solid and vacuum\n2. suggest methods for generation and measurement of high voltage and currents.\n3. determine the basic insulation level of substation equipment.\n4. apply methods for protection of electrical apparatus against over voltage\n5. test insulators,bushings, isolators, circuit breakers, cables and power transformers.\n6. solve numerical problems of breakdown phenomena, generation and measurement of high\nvoltage and currents, over voltage phenomena and high voltage testing.\nSpecial Remarks (if any)\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their\nprogram educational objective."
+            }
+        ]
+    },
+    {
+        "subject_name": "POWER PLANT ENGINEERING",
+        "units": [
+            {
+                "unit_no": "3",
+                "title": "General layout, Components of Diesel power plant, Performance of\ndiesel power plant, fuelsystem, lubrication system, air intake and\nadmission system, supercharging system, exhaustsystem, diesel\nplant operation and efficiency, heat balance, Site selection of diesel\n08\npowerplant, Comparative study of diesel power plant with\nsteampower plant.\nGas turbine power plant",
+                "content": "Layout of gas turbine power plant, Elements of gas turbine power\nplants, Gas turbine fuels,cogeneration, auxiliary systems such as\nfuel, controls and lubrication, operation andmaintenance, Combined\ncycle power plants, Site selection of gas turbine power plant .\nNuclear power plant:"
+            },
+            {
+                "unit_no": "4",
+                "title": "Principles of nuclear energy, Lay out of nuclear power plant, Basic\ncomponents of nuclear reactions, nuclear power station, Nuclear\nwaste disposal, Site selection of nuclear power plants.\nHydro electric station",
+                "content": ""
+            },
+            {
+                "unit_no": "10",
+                "title": "Hydrology, Principles of working, applications, site selection,\nclassification and arrangements, hydro-electric plants, run off size of\nplant and choice of units, operation and maintenance, hydro systems,\ninterconnected systems.\nNon Conventional Power Plants",
+                "content": "Introduction to non-conventional\npower plants (Solar, wind, geothermal, tidal)etc.\nElectrical system:"
+            },
+            {
+                "unit_no": "5",
+                "title": "Generators and their cooling, transformers and their\ncooling.Instrumentation Purpose, classification, selection and 06\napplication, recorders and their use,listing of various control\nrooms.Pollution due to power generation and its remedy\nText books",
+                "content": "1. Power Plant Engineering, P.K. Nag, McGraw Hill.\n2. Power Plant Engineering, F.T. Morse, Affiliated East-West Press Pvt. Ltd.\n3. Power Plant Technology El-Vakil, McGraw Hill.\nReference books\n1. Steam & Gas Turbines & Power Plant Engineering by R.Yadav, Central Pub.House.\n2. An introduction to thermal power plant engineering and operation, P.K.Das and A.K. Das,\nNotion press.\nCourse Outcome:\nAfter completion of this course, the learners will be able to\n1. explain the principle of operational of Steam, Hydroelectric, Diesel, Gas turbine, Nuclear\npower and non-conventional power plant.\n2. identifythe cause of pollution for power generation and its remedy.\n3. suggest location to set up Steam, Hydroelectric, Diesel, Gas turbine and Nuclear power plant.\n4. compare Steam, Hydroelectric, Diesel, Gas turbine, Nuclear power and non-conventional\npower plant.\n5. suggest methods of maintenance of Steam, Gas and Hydroelectric power plants\n6. solve numerical problems of load estimation and economics of power plants.\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\nSpecial Remarks (if any)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their program\neducational objective."
+            }
+        ]
+    },
+    {
+        "subject_name": "RENEWABLE & NON CONVENTIONAL",
+        "units": [
+            {
+                "unit_no": "3",
+                "title": "Principle of wind energy conversion; Basic components of wind\nenergy conversion systems; wind mill components, varioustypes and 05\ntheir constructional features; design considerations of horizontal and\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\nvertical axis wind machines",
+                "content": "analysis ofaerodynamic forces acting\non wind mill blades and estimation of power output; wind data and\nsite selection considerations\nEnergy from Biomass:"
+            },
+            {
+                "unit_no": "4",
+                "title": "Biomass conversion technologies, Biogas generation plants,\nclassification, advantages and disadvantages, constructional details, 05\nsite selection, digester design consideration, filling a digester for\nstarting, maintaining biogas production, Fuel properties of bio gas,\nutilization of biogas\nGeothermal Energy",
+                "content": ""
+            },
+            {
+                "unit_no": "5",
+                "title": "",
+                "content": "Estimation and nature of geothermal energy, geothermal sources and\nresources like hydrothermal, geo-pressured hot dryrock, magma. 05\nAdvantages, disadvantages and application of geothermal energy,\nprospects of geothermal energy in India."
+            },
+            {
+                "unit_no": "6",
+                "title": "Energy from Ocean",
+                "content": "Ocean Thermal Electric Conversion (OTEC) systems like open\ncycle, closed cycle, Hybrid cycle, prospects of OTEC inIndia. 05\nEnergy from tides, basic principle of tidal power, single basin and\ndouble basin tidal power plants, advantages,limitation and scope of\ntidal energy. Wave energy and power from wave, wave energy\nconversion devices, advantages anddisadvantages of wave energy."
+            },
+            {
+                "unit_no": "7",
+                "title": "Magneto Hydrodynamic power generation",
+                "content": "05\nPrinciple of MHD power generation, MHD system, Design\nproblems and developments, gas conductivity, materials forMHD\ngenerators and future prospects."
+            },
+            {
+                "unit_no": "8",
+                "title": "Hydrogen Energy",
+                "content": "Introduction, Hydrogen Production methods, Hydrogen storage, 03\nhydrogen transportation, utilization of hydrogen gas,hydrogen as\nalternative fuel for vehicles."
+            },
+            {
+                "unit_no": "9",
+                "title": "Fuel cell",
+                "content": "Introduction, Design principle and operation of fuel cell, Types of 03\nfuel cells, conversion efficiency of fuel cell, applicationof fuel cells\nText books:\n1. Renewable energy sources and conversion technology, Bansal Keemann, Meliss, Tata Mc\nGraw Hill.\n2. Energy Technology, O.P. Gupta, Khanna Publishing House.\n3. Renewable energy resources and emerging technologies, D.P. Kothari, PHI.\n4. Non-conventional Energy sources, G.D. Rai, Khanna Publishers.\n5. Non Conventional Energy Resources, Chandra, Khanna Publishing House.\nReference books\n1. Non-conventional Energy, Ashok V. Desai, New Age International Publishers Ltd.\nCourse Outcome:\nAfter completion of this course, the learners will be able to\nMaulana Abul Kalam Azad University of Technology, West Bengal\n(Formerly West Bengal University of Technology)\nSyllabus for B. Tech in Electrical Engineering\n(Applicable from the academic session 2018-2019)\n1. explain the principle of conversion of solar energy, wind energy , biomass, Geothermal\nenergy, Ocean energy and Hydrogen energy to other form of energy.\n2. explain the principle of operation of magneto hydrodynamic power generation:\n3. useSolar energy, Wind energy , Biomass, Geothermal energy, Ocean energy, Hydrogen\nenergy and fuel cell for different applications.\n4. suggest location to set up wind mill and biogas generation plant\n5. estimate conversion efficiency of fuel cell.\n6. solve numerical problems relating to conversion of Solar energy, Wind energy , Biomass,\nOcean energy and Hydrogen energy to heat and electric energy.\nSpecial Remarks (if any)\nThe above-mentioned outcomes are not limited. Institute may redefine outcomes based their program\neducational objective."
+            }
+        ]
+    }
+]
